@@ -1,4 +1,0 @@
-git checkout --orphan gh-pages
-# Creates a new branch, with no history or contents, called gh-pages, and switches to the gh-pages branch
-git rm -rf .
-# Removes the contents from your default branch from the working directory
