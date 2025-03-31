@@ -1,14 +1,3 @@
----
-layout: default
-title: "Example Plot"
----
-
-# Intro
-
-## a) Temporal Data
-Here’s an example of a temporal plot:
-
-```python
 import matplotlib.pyplot as plt
 import numpy as np
 
@@ -22,4 +11,3 @@ plt.ylabel("Value")
 plt.title("Example Temporal Plot")
 plt.legend()
 plt.savefig("assets/images/example-plot.png")  # Save the plot
-plt.show()
