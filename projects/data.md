@@ -12,12 +12,17 @@ Initially, the dataset looked quite raw, containing just the basics – order ID
 
 Here’s what we did:
 
-Time Insights: We extracted useful time features, like the day of the week, month, and speed of each delivery, along with the minutes taken from acceptance to delivery. This helps us see which days and hours are the busiest.
+**Time Insights**: We extracted useful time features, like the day of the week, month, and speed of each delivery, along with the minutes taken from acceptance to delivery. This helps us see which days and hours are the busiest.
 
-Location Context: Using domain knowledge, we grouped each delivery area (AOI type) into meaningful labels like business complexes, educational zones, residential blocks, and industrial areas based on nearby landmarks and typical activities.
+**Location Context**: Using domain knowledge, we grouped each delivery area (AOI type) into meaningful labels like business complexes, educational zones, residential blocks, and industrial areas based on nearby landmarks and typical activities.
 
-Lifestyle Zones: We also grouped the 16 administrative districts into 5 broader lifestyle zones based on their economic status, infrastructure, and general living standards – like upscale city centers, growing suburbs, and busy commercial hubs.
+**Lifestyle Zones**: We also grouped the 16 administrative districts into 5 broader lifestyle zones based on their economic status, infrastructure, and general living standards – like upscale city centers, growing suburbs, and busy commercial hubs.
 
 Why did we go through all this effort? Because just looking at raw coordinates or IDs doesn’t tell the full story. By adding these layers, we can start to see the bigger picture – like which areas face the most pressure, when the delivery crunch hits, and how lifestyle differences impact the speed and efficiency of deliveries.
 
 This approach will help us uncover patterns in our data story, revealing the hidden connections between location, income, and delivery efficiency in Shanghai’s fast-paced logistics world.
+
+![Number og deliveries](/assets/images/num_of_deliveries.png)
+
+![AOI types](/assets/images/AOI_types.png)
+
