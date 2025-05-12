@@ -92,5 +92,5 @@ With this, we wrap up our exploration, revealing how zone types, infrastructure,
 ## Project Structure
 - [Overview](/)
 - [Temporal Analysis](/Temporal_Analysis/)
-- [Hotspots](/Hotspots/)
+- [Spatial Insights](/Hotspots/)
 

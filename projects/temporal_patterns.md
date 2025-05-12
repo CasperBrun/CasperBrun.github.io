@@ -37,5 +37,8 @@ After understanding the broader monthly and weekly delivery patterns, we wanted 
 
 - The quiet hours from **midnight to 7 AM** show minimal activity, as most businesses are closed and fewer residential deliveries are expected.
 
-
+## Project Structure
+- [Overview](/)
+- [Temporal Analysis](/Temporal_Analysis/)
+- [Spatial Insights](/Hotspots/)
 
