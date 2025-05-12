@@ -21,9 +21,9 @@
 title: Package delivery in Shanghai
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This site explores the package delivery industry in Shanghai, China.
-  It covers the history, current state, and future trends of the industry.
-  It also provides insights into the challenges and opportunities faced by
+  This website explores the dynamics of package delivery in Shanghai, 
+  revealing patterns in speed, volume, and congestion through interactive visualizations. 
+  Built for data enthusiasts, urban planners, and curious minds.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb

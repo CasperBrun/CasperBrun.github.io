@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Overview
 description: "An overview of the project and its objectives."
 permalink: /
