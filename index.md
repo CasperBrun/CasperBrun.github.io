@@ -15,10 +15,10 @@ But this complexity also makes Shanghai a challenging city for logistics. With i
 The following image is a bar chart with data sourced from the China State Post Bureau(hyperlink : https://www.euronews.com/next/2021/08/27/china-tech-giant-alibaba-says-delivery-robots-are-the-future-here-are-4-charts-that-explai). It shows the rapid growth in package deliveries in China from 2013 to 2020. The bars are colored in a bright orange, increasing steadily each year, reflecting the explosive rise in e-commerce over the past decade. The chart highlights how parcel volumes surged from just over 10 billion in 2013 to nearly 80 billion in 2020, emphasizing the scale of China’s booming online shopping industry.
 
 
-THEN WE PUT THE INTRO IMAGE 
 ![Plot 1](/assets/images/intro.jpg)
 
 ## 🔗 Explore
-- [About Me](/about/)
+
 - [Projects](/projects/)
 - [Data Visualizations](/data-viz/)
+- [About Me](/about/)
