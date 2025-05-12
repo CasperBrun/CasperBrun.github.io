@@ -2,6 +2,7 @@
 layout: default
 title: Data
 permalink: /data/
+published: false
 ---
 
 # Diving Into Our Data 
