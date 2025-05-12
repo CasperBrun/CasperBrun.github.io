@@ -35,15 +35,15 @@ plugins:
   - jekyll-feed
 
 
-# header_pages:
-#   - index.md      # Home
-#   - projects/data.md       # Data
-#   - projects/temporal_patterns.md # Temporal patterns
-#   - projects/hotspots.md   # Hotspots
-#   - projects/congestionmap.md # Congestion map
-#   - projects/aoi.md        # AOI
-#   - projects/big_picture.md # The big picture
-#   - about.markdown      # About
+header_pages:
+  - index.md      # Home
+  - projects/data.md       # Data
+  - projects/temporal_patterns.md # Temporal patterns
+  - projects/hotspots.md   # Hotspots
+#  - projects/congestionmap.md # Congestion map
+#  - projects/aoi.md        # AOI
+#  - projects/big_picture.md # The big picture
+  - about.markdown      # About
 
 
 # Exclude from processing.

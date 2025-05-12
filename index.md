@@ -56,8 +56,7 @@ Moving on,, we looked at daily delivery volumes over the six-month period.
 
 
 
-## 🔗 Explore
-
-- [Projects](/projects/)
-- [Data Visualizations](/data-viz/)
-<!-- - [About Me](/about/) -->
+## Project Structure
+- [Overview](/)
+- [Temporal Analysis](/projects/temporal_patterns/)
+- [Hotspots](/projects/hotspots/)

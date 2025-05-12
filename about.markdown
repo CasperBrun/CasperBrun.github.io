@@ -8,5 +8,9 @@ permalink: /about/
 
 **Group members** 
 Casper Brun Pedersen s204119
+
 Mayisha Maliha s232922
+
 Matteo D'Souza s242947
+
+

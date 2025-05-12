@@ -8,7 +8,7 @@ permalink: /spatial_insights/
 After exploring the temporal and hourly patterns, it’s clear that delivery demand in Shanghai follows a distinct rhythm, peaking during certain hours and months. But to truly understand where the pressure points lie, we need to move beyond just when deliveries happen and start looking at where they happen.
 This naturally leads us to the next phase – spatial analysis. This is where our hotspot maps come in, highlighting the most active delivery regions and the possible factors driving these patterns. 
 
-# PLOT HERE
+
 <iframe src="/assets/interactive/Hotspot map.html" width="100%" height="600px" style="border:none;"></iframe>
 
 
@@ -65,7 +65,7 @@ To capture the diverse character of Shanghai, we grouped its 16 administrative d
 
 Grouping these districts helps us see how delivery patterns and purchase power vary across the city. Taller bars in these plots generally indicate areas with higher economic activity and stronger purchase power, while shorter bars might reflect residential or industrial zones with less frequent orders.
 
-<iframe src="/assets/interactive/new_single_plot_with_dropdown.html" width="100%" height="600px" style="border:none;"></iframe>
+<iframe src="/assets/interactive/new_single_plot_with_dropdown.html" width="100%" height="500px" style="border:none;"></iframe>
 *Use the dropdown menu to switch between zone groups and hover over the bars to compare delivery volume and average accept times across different AOI types.*
 
 
@@ -83,10 +83,14 @@ In the Outer Suburbs (like Songjiang and Qingpu), the pattern flips. Industrial 
 
 # Mapping Shanghai’s Delivery Landscape – The Big Picture
 
-<iframe src="/assets/interactive/stacked_bar_with_legend.html" width="100%" height="600px" style="border:none;"></iframe>
+<iframe src="/assets/interactive/stacked_bar_with_legend.html" width="100%" height="400px" style="border:none;"></iframe>
 
 Bringing all zone groups together, this stacked bar chart captures the full spectrum of Shanghai’s delivery dynamics. High-density, high-income areas like the Central Urban Core and Expanding Urban Core show strong volumes in Business Hubs and Mixed-Use zones, reflecting intense commercial activity and higher purchasing power. Meanwhile, Outer Suburbs and Rural Areas lean more towards Warehousing, Postal Centers, and Residential Areas, reflecting their roles in supporting long-distance logistics and bulk shipments.
 With this, we wrap up our exploration, revealing how zone types, infrastructure, and consumer behavior come together to shape the complex world of last-mile delivery in Shanghai.
 
 
+## Project Structure
+- [Overview](/)
+- [Temporal Analysis](/Temporal_Analysis/)
+- [Hotspots](/Hotspots/)
 
