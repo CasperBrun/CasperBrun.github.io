@@ -23,8 +23,8 @@ By focusing on weapon-related crimes, we’re not just counting incidents — we
 
 ![Plot 1](/assets/example_plot.png)
 
-[See interactive plot page](./interactive.html)
+<!-- [See interactive plot page](./interactive.html) -->
 
 
-<!-- <iframe src="/assets/interactive_plot.html" width="100%" height="600px" style="border:none;"></iframe> -->
+<iframe src="/assets/interactive_plot.html" width="100%" height="600px" style="border:none;"></iframe>
 
