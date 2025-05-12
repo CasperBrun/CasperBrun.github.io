@@ -22,7 +22,7 @@ Why did we go through all this effort? Because just looking at raw coordinates o
 
 This approach will help us uncover patterns in our data story, revealing the hidden connections between location, income, and delivery efficiency in Shanghai’s fast-paced logistics world.
 
-![Number og deliveries](/assets/images/num_of_deliveries.png)
+![Number og deliveries](/assets/images/num_of_deliveries.jpg)
 
-![AOI types](/assets/images/AOI_types.png)
+![AOI types](/assets/images/AOI_types.jpg)
 
