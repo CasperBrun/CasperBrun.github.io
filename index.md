@@ -59,4 +59,4 @@ Moving on,, we looked at daily delivery volumes over the six-month period.
 ## Project Structure
 - [Overview](/)
 - [Temporal Analysis](/projects/temporal_patterns/)
-- [Hotspots](/projects/hotspots/)
+- [Spatial Insights](/projects/hotspots/)
