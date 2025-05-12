@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Congestion Map
 permalink: /congestion_map/
 ---

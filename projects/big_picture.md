@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: The Big Picture
 permalink: /big_picture/
 ---
