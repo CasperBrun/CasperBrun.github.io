@@ -48,7 +48,7 @@ Interestingly, we see a few outliers reaching speeds of up to 60 km/h. These cou
 ![Number og deliveries](/assets/images/num_of_deliveries.jpg)
 
 
-Moving on,, we looked at daily delivery volumes over the six-month period. 
+Moving on, we looked at daily delivery volumes over the six-month period. 
 *The line plot reveals a clear upward trend, with some sharp peaks around late September. These spikes might be tied to major sales events or busy shopping seasons, which can put a lot of pressure on the delivery network*.
 
 
@@ -60,3 +60,4 @@ Moving on,, we looked at daily delivery volumes over the six-month period.
 - [Overview](/)
 - [Temporal Analysis](https://casperbrun.github.io/Temporal_Analysis/)
 - [Spatial Insights](https://casperbrun.github.io/spatial_insights/)
+- [Prediction Analysis](https://casperbrun.github.io/prediction_analysis/)

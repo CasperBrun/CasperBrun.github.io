@@ -93,4 +93,5 @@ With this, we wrap up our exploration, revealing how zone types, infrastructure,
 - [Overview](/)
 - [Temporal Analysis](https://casperbrun.github.io/Temporal_Analysis/)
 - [Spatial Insights](https://casperbrun.github.io/spatial_insights/)
+- [Prediction Analysis](https://casperbrun.github.io/prediction_analysis/)
 
