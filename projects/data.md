@@ -6,7 +6,7 @@ permalink: /data/
 
 # Diving Into Our Data 
 
-For this project, we used the LaDe-D dataset, a large-scale public data source provided by Cainiao Network, one of China’s leading logistics platforms. This dataset captures the complex dance of last-mile deliveries in Shanghai over a six-month period in 2021. It includes over 1.48 million unique orders, each with rich details like the location of depots, customer coordinates, order acceptance times, and delivery durations. You can find the original dataset here. [Link](https://huggingface.co/datasets/Cainiao-AI/LaDe-D/viewer/default/delivery_sh)
+For this project, we used the LaDe-D dataset, a large-scale public data source provided by Cainiao Network, one of China’s leading logistics platforms. This dataset captures the complex dance of last-mile deliveries in Shanghai over a six-month period in 2021. It includes over 1.48 million unique orders, each with rich details like the location of depots, customer coordinates, order acceptance times, and delivery durations. You can find the original dataset [here](https://huggingface.co/datasets/Cainiao-AI/LaDe-D/viewer/default/delivery_sh).
 
 Initially, the dataset looked quite raw, containing just the basics – order IDs, courier IDs, and geographical coordinates. But to truly understand the story behind these deliveries, we needed to add more layers to this data.
 
