@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Temporal Analysis
+title: Temporal Patterns
 permalink: /Temporal_Analysis/
 ---
 

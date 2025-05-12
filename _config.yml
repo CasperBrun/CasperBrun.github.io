@@ -44,6 +44,7 @@ header_pages:
 #  - projects/aoi.md        # AOI
 #  - projects/big_picture.md # The big picture
 #   - about.markdown      # About
+  - projects/prediction_analysis.md
   - projects/code.md
 
 # Exclude from processing.
