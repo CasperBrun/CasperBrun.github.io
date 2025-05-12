@@ -38,4 +38,7 @@ By focusing on weapon-related crimes, we’re not just counting incidents — we
 
 <iframe src="/assets/interactive/single_plot_with_dropdown.html" width="100%" height="600px" style="border:none;"></iframe>
 
+<iframe src="/assets/interactive/new_single_plot_with_dropdown.html" width="100%" height="600px" style="border:none;"></iframe>
+
+
 <iframe src="/assets/interactive/stacked_bar_with_legend.html" width="100%" height="600px" style="border:none;"></iframe>
