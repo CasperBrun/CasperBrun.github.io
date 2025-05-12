@@ -9,6 +9,7 @@ After exploring the temporal and hourly patterns, it’s clear that delivery dem
 This naturally leads us to the next phase – spatial analysis. This is where our hotspot maps come in, highlighting the most active delivery regions and the possible factors driving these patterns. 
 
 # PLOT HERE
+<iframe src="/assets/interactive/Hotspot map.html" width="100%" height="600px" style="border:none;"></iframe>
 
 
 *This interactive heatmap highlights the busiest regions in red and orange, while cooler tones like blue indicate lower delivery volumes. Use this map to explore different districts, zoom in to the street level, or pan across the city to find interesting patterns.*
