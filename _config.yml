@@ -43,7 +43,8 @@ header_pages:
 #  - projects/congestionmap.md # Congestion map
 #  - projects/aoi.md        # AOI
 #  - projects/big_picture.md # The big picture
-  - about.markdown      # About
+#   - about.markdown      # About
+  - [Code](https://github.com/CasperBrun/02806-final-assingment/blob/main/code/SDA_Final_Pro_Merged.ipynb)
 
 
 # Exclude from processing.
