@@ -1,5 +1,11 @@
+---
+layout: page
+title: Plots
+permalink: /plots/
+---
 
-<!-- # The Other Side of the Bay: Two Decades of Weapon Crimes in San Francisco -->
+
+# The Other Side of the Bay: Two Decades of Weapon Crimes in San Francisco
 
 San Francisco is many things — a tourist magnet, a tech hub, and home to some of the most vibrant neighborhoods in the United States. Yet, like every major city, San Francisco also carries the quiet burden of crime. While headlines often focus on sensational stories, the real trends often hide in plain sight, recorded steadily by the San Francisco Police Department for years.
 
