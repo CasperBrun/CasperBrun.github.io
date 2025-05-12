@@ -91,6 +91,6 @@ With this, we wrap up our exploration, revealing how zone types, infrastructure,
 
 ## Project Structure
 - [Overview](/)
-- [Temporal Analysis](/Temporal_Analysis/)
-- [Spatial Insights](/Hotspots/)
+- [Temporal Analysis](https://casperbrun.github.io/Temporal_Analysis/)
+- [Spatial Insights](https://casperbrun.github.io/spatial_insights/)
 

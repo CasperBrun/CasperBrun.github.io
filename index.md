@@ -58,5 +58,5 @@ Moving on,, we looked at daily delivery volumes over the six-month period.
 
 ## Project Structure
 - [Overview](/)
-- [Temporal Analysis](/projects/temporal_patterns/)
-- [Spatial Insights](/projects/hotspots/)
+- [Temporal Analysis](https://casperbrun.github.io/Temporal_Analysis/)
+- [Spatial Insights](https://casperbrun.github.io/spatial_insights/)
