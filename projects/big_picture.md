@@ -2,6 +2,8 @@
 layout: default
 title: The Big Picture
 permalink: /big_picture/
+published: false
+
 ---
 
 # Mapping Shanghai’s Delivery Landscape – The Big Picture

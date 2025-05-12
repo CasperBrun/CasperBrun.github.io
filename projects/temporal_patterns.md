@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Temporal Pattern
-permalink: /Temporal Pattern/
+title: Temporal Analysis
+permalink: /Temporal_Analysis/
 ---
 
 # From Trends to Time – Digging Deeper into Temporal Patterns 

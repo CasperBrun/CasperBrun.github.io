@@ -2,6 +2,8 @@
 layout: default
 title: AOI
 permalink: /aoi/
+published: false
+
 ---
 
 # Exploring AOI Types Across Different Zones – Interactive Insights
