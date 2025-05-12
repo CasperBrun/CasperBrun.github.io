@@ -22,3 +22,6 @@ Behind every data point might be a loaded question: Are communities feeling safe
 By focusing on weapon-related crimes, we’re not just counting incidents — we’re listening to the pulse of urban safety, understanding fears, tensions, and the fabric of daily life in San Francisco.
 
 ![Plot 1](/assets/example_plot.png)
+
+<iframe src="/assets/interactive_plot.html" width="100%" height="600px" style="border:none;"></iframe>
+
