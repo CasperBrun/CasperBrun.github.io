@@ -37,13 +37,13 @@ plugins:
 
 header_pages:
   - index.md      # Home
-  - data.md       # Data
-  - temporal_patterns.md # Temporal patterns
-  - hotspots.md   # Hotspots
-  - congestionmap.md # Congestion map
-  - aoi.md        # AOI
-  - big_picture.md # The big picture
-  - about.md      # About
+  - projects/data.md       # Data
+  - projects/temporal_patterns.md # Temporal patterns
+  - projects/hotspots.md   # Hotspots
+  - projects/congestionmap.md # Congestion map
+  - projects/aoi.md        # AOI
+  - projects/big_picture.md # The big picture
+  - about.markdown      # About
 
 
 # Exclude from processing.
