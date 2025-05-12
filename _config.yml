@@ -44,8 +44,7 @@ header_pages:
 #  - projects/aoi.md        # AOI
 #  - projects/big_picture.md # The big picture
 #   - about.markdown      # About
-  - [Code](https://github.com/CasperBrun/02806-final-assingment/blob/main/code/SDA_Final_Pro_Merged.ipynb)
-
+  - projects/code.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
