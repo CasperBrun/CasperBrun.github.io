@@ -2,6 +2,8 @@
 layout: page
 title: About
 permalink: /about/
+published: false
+
 ---
 
 # Group 26
