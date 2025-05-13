@@ -10,7 +10,7 @@ After exploring the delivery patterns and their possible causes, we shifted our 
 To achieve this, we first needed to identify the most important factors influencing delivery time. Using a feature importance analysis, we ranked the available features based on their impact on delivery time predictions.
 
 
-![Features](/assets/images/top_features.jepg)
+![top_features](/assets/images/top_features.jpeg)
 
 As shown in the **Top Features for Predicting Delivery Time** chart, **speed (km/h)** emerged as the most influential factor, followed by **latitude**, **distance (km)**, and **longitude**. These top features clearly indicate that geographic location and travel speed are critical for accurate delivery time predictions, while attributes like **courier ID** and **delivery day of the week** had minimal influence.Surprisingly enough, we expected to see AOI type (Residential or Business or Educational kind of zone) as one of the influential features but this did not appear to be one in real.
 With these insights, we built a predictive model to estimate delivery minutes for each day from June to November 2021.
