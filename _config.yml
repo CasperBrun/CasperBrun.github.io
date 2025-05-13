@@ -45,7 +45,7 @@ header_pages:
 #  - projects/big_picture.md # The big picture
 #   - about.markdown      # About
   - projects/prediction_analysis.md
-  - projects/code.md
+#  - projects/code.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.

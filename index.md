@@ -37,10 +37,11 @@ Before diving deeper, we took a quick look at our dataset to spot some early pat
 
 First, we checked the distribution of delivery tasks by AOI type. AOI type means area of interest. In general, the online delivery services have their own way of labelling area types based on common features or landmarks around. It is encoded by the company but different numbers actually mean areas like Residential, Business Hub, Educational Zone etc. Based on the bar chart displayed above, one AOI type dominates, handling over a million tasks. This made us wonder – what kind of places fall into this category, and why are they so much busier than others?
 
-![Delivery speed](/assets/images/distribution.jpg)
+![Delivery speed](/assets/images/speed_minutes.jpeg)
 
 
 Next, we looked at how fast these deliveries are happening. This time and speed distribution plot adds another layer to the story. The majority of couriers operate below 10 km/h, reflecting the dense, traffic-heavy nature of urban areas like Shanghai, where congested roads and pedestrian zones slow down last-mile deliveries. This can be a major factor impacting overall delivery times.It shows that most deliveries happen within a single day, aligning well with Alibaba’s Cainiao Network promise of “next-day” or even “half-day” delivery for many urban areas. This efficiency reflects the strategic placement of distribution hubs and the use of advanced logistics to reduce last-mile times. You can read more about their delivery model [here](https://www.reuters.com/business/retail-consumer/chinese-e-commerce-giants-make-expensive-bets-fast-deliveries-2025-05-12/).
+
 
 
 

@@ -78,6 +78,7 @@ Switching to the Inner or Outer Suburbs reveals a different picture, with Wareho
 ## Delivery Times Within the Same Zone
 After identifying the broader AOI patterns across Shanghai’s different zones, it’s clear that each area has its own unique delivery dynamics. But volume alone doesn’t tell the full story – we also need to consider delivery times and how they vary across different AOI types within the same zone.
 When you select the  Expanding Urban Core (like Pudong and Minhang), and hover over to different bars , you will notice,Mixed Area, Shopping Hub or  Postal Centers often handle high volumes but also delivers on average within 2 hours. This is likely due to well constructed road networks, optimized routes and well maintained logistics structure within the urban center. 
+
 Changing the selection into the Outer Suburbs (like Songjiang and Qingpu) makes  the pattern flip. Mixed Areas in these suburbs might see slower deliveries, in comparison with central urban zone, probably due to  complex housing layouts, and lower route optimization slow down couriers.
 
 
