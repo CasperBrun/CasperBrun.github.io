@@ -31,6 +31,7 @@ From August onwards, the actual and predicted lines start to align more closely,
 ## Confidence vs Prediction Intervals
 
 The first subplot adds a confidence interval (shaded in orange) around the predicted line. In simple terms, it shows the range where the average delivery time is likely to fall most of the time (around 95% of the time). If the real values mostly fall within this band, it means the model is generally accurate for average predictions. In this case, the actual values (blue) are mostly within the shaded region, indicating a reasonably accurate model for the average trend.
+
 The second subplot introduces a prediction interval (shaded in green), which is much wider. This interval accounts for both the model's uncertainty and the natural variation in daily deliveries, capturing where individual points might fall. This is a more realistic measure of model reliability, as it considers the full range of possible outcomes.Given that the actual values still fall mostly within this band, it means the model captures the overall trend well, even if it misses some daily spikes and dips.
 
 
