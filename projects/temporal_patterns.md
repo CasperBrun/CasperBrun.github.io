@@ -16,11 +16,12 @@ To capture the monthly and weekly delivery rhythms, we visualized five full mont
 
 
 **A Calmer Start in June :** 
-June typically starts a bit slower, even though it includes the 618 Shopping Festival, one of China’s largest mid-year sales events according to China Marketing Corporation. This festival mainly focuses on electronics and home appliances, which can create a short-term spike but doesn’t sustain high volumes like the later months. 
+
+June typically starts a bit slower, even though it includes the 618 Shopping Festival, one of China’s largest mid-year sales events according to [China Marketing Corporation](https://chinamarketingcorp.com/blog/chinas-618-mid-year-shopping-festival/). This festival mainly focuses on electronics and home appliances, which can create a short-term spike but doesn’t sustain high volumes like the later months. 
 
 **The September-October Rush:**
 
-The heatmap clearly shows a surge in delivery volumes as we move into September and October. This period aligns with the Golden Week in early October, one of the biggest shopping and travel seasons in China. According to China Daily, this week-long national holiday drives a massive spike in consumer spending, pushing up delivery volumes as people prepare for family gatherings and holiday shopping. Additionally, businesses often stock up ahead of this peak period, adding extra pressure on logistics networks.
+The heatmap clearly shows a surge in delivery volumes as we move into September and October. This period aligns with the Golden Week in early October, one of the biggest shopping and travel seasons in China. According to [China Daily](https://govt.chinadaily.com.cn/s/202310/07/WS65326e0a498ed2d7b7e9e0d3/golden-week-holiday-data-shows-consumption-boom.html), , this week-long national holiday drives a massive spike in consumer spending, pushing up delivery volumes as people prepare for family gatherings and holiday shopping. Additionally, businesses often stock up ahead of this peak period, adding extra pressure on logistics networks.
 
 **Weekend Deeps :**
 
