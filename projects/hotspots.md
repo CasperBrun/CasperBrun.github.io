@@ -70,8 +70,9 @@ Grouping these districts helps us see how delivery patterns and purchase power v
 
 
 ## AOI Patterns Across Zones – What to Look For
-When you select the Central Urban Core, you’ll notice that Mixed-Use and Business Hubs dominate the scene. This makes sense, as these areas include dense commercial districts like Jing’an and Huangpu, where businesses, offices, and high-rise apartments are tightly packed, creating a constant flow of deliveries.
-Switching to the Outer Suburbs reveals a different picture, with Warehousing and Industrial Zones becoming more prominent. These areas, like Songjiang and Jinshan, serve as the city’s logistics backbone, handling bulk shipments and acting as critical nodes in the supply chain.
+When you select the Central Urban or Expanding Urban Core, you’ll notice that Mixed-Use , Shopping Hub, and Business Hubs etc. dominate the scene. This makes sense, as these areas include dense commercial districts like Jing’an and Huangpu, where businesses, offices, and high-rise apartments are tightly packed, creating a constant flow of deliveries.
+Switching to the Inner or Outer Suburbs reveals a different picture, with Warehousing and Industrial Zones for example, Postal Centers becoming more prominent but lesser  volume of delivery in Business Hub within the Inner Suburbs. However overall mixed use areas that actually consist of almost all things like residence, schools, clubs, restaurants together and the Shopping Hub dominates mostly in all the zones. The isolated island of Chongming does not receive any delivery, which might be because the delivery in those areas are not handled by the same company we retrieved the data from.
+
 
 
 ## Delivery Times Within the Same Zone
