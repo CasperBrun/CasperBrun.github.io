@@ -37,12 +37,10 @@ Before diving deeper, we took a quick look at our dataset to spot some early pat
 
 First, we checked the distribution of delivery tasks by AOI type. As the first bar chart shows, one AOI type dominates, handling over a million tasks. This made us wonder – what kind of places fall into this category, and why are they so much busier than others?
 
-![Delivery speed](/assets/images/Speed.png)
+![Delivery speed](/assets/images/distribution.jpg)
 
 
-Next, we looked at how fast these deliveries are happening. The above histogram shows that most deliveries cluster below 10 km/h, with a sharp drop-off as speeds increase. This is not too surprising, given that many deliveries happen in dense urban areas where traffic, narrow lanes, and frequent stops can slow things down.
-
-Interestingly, we see a few outliers reaching speeds of up to 60 km/h. These could be longer trips through less congested areas, express highway routes, or even cases where the delivery vehicle took a faster, more direct path. It’s also possible that these are late-night or early-morning deliveries, when the roads are clearer and couriers can move quickly without the usual traffic jams.
+Next, we looked at how fast these deliveries are happening. This time distribution plot adds another layer to the story. It shows that most deliveries happen within a single day, aligning well with Alibaba’s Cainiao Network promise of “next-day” or even “half-day” delivery for many urban areas. This efficiency reflects the strategic placement of distribution hubs and the use of advanced logistics to reduce last-mile times. You can read more about their delivery model [here](https://www.reuters.com/business/retail-consumer/chinese-e-commerce-giants-make-expensive-bets-fast-deliveries-2025-05-12/).
 
 
 ![Number og deliveries](/assets/images/num_of_deliveries.jpg)
