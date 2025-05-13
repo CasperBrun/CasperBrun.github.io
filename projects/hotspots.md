@@ -66,7 +66,7 @@ To capture the diverse character of Shanghai, we grouped its 16 administrative d
 Grouping these districts helps us see how delivery patterns and purchase power vary across the city. Taller bars in these plots generally indicate areas with higher economic activity and stronger purchase power, while shorter bars might reflect residential or industrial zones with less frequent orders.
 
 <iframe src="/assets/interactive/new_single_plot_with_dropdown.html" width="100%" height="500px" style="border:none;"></iframe>
-*Use the dropdown menu to switch between zone groups and hover over the bars to compare delivery volume and average accept times across different AOI types.*
+*Use the dropdown menu to switch between zone groups and hover over the bars to compare delivery volume and average accept times across different AOI types. Reload the page in case you face difficulty while interacting with the plot.*
 
 
 ## AOI Patterns Across Zones – What to Look For
@@ -76,17 +76,18 @@ Switching to the Outer Suburbs reveals a different picture, with Warehousing and
 
 ## Delivery Times Within the Same Zone
 After identifying the broader AOI patterns across Shanghai’s different zones, it’s clear that each area has its own unique delivery dynamics. But volume alone doesn’t tell the full story – we also need to consider delivery times and how they vary across different AOI types within the same zone.
-In the Expanding Urban Core (like Pudong and Minhang), Business Hubs often handle high volumes but also face longer average delivery times. This is likely due to dense office clusters, complex road networks, and high traffic volumes. However, Mixed-Use areas in the same zone tend to have shorter delivery times despite high volumes, benefiting from more efficient routes and better infrastructure, which allow for faster, more direct deliveries.
-In the Outer Suburbs (like Songjiang and Qingpu), the pattern flips. Industrial Zones here handle high volumes but often manage to keep delivery times shorter, thanks to wide roads, less congestion, and more optimized bulk shipments. On the other hand, Residential Areas in these suburbs might see fewer but slower deliveries, as narrow streets, complex housing layouts, and lower route optimization slow down couriers.
+When you select the  Expanding Urban Core (like Pudong and Minhang), and hover over to different bars , you will notice,Mixed Area, Shopping Hub or  Postal Centers often handle high volumes but also delivers on average within 2 hours. This is likely due to well constructed road networks, optimized routes and well maintained logistics structure within the urban center. 
+Changing the selection into the Outer Suburbs (like Songjiang and Qingpu) makes  the pattern flip. Mixed Areas in these suburbs might see slower deliveries, in comparison with central urban zone, probably due to  complex housing layouts, and lower route optimization slow down couriers.
 
 
 
-# Mapping Shanghai’s Delivery Landscape – The Big Picture
+
+<!-- # Mapping Shanghai’s Delivery Landscape – The Big Picture
 
 <iframe src="/assets/interactive/stacked_bar_with_legend.html" width="100%" height="400px" style="border:none;"></iframe>
 
 Bringing all zone groups together, this stacked bar chart captures the full spectrum of Shanghai’s delivery dynamics. High-density, high-income areas like the Central Urban Core and Expanding Urban Core show strong volumes in Business Hubs and Mixed-Use zones, reflecting intense commercial activity and higher purchasing power. Meanwhile, Outer Suburbs and Rural Areas lean more towards Warehousing, Postal Centers, and Residential Areas, reflecting their roles in supporting long-distance logistics and bulk shipments.
-With this, we wrap up our exploration, revealing how zone types, infrastructure, and consumer behavior come together to shape the complex world of last-mile delivery in Shanghai.
+With this, we wrap up our exploration, revealing how zone types, infrastructure, and consumer behavior come together to shape the complex world of last-mile delivery in Shanghai. -->
 
 
 ## Project Structure
