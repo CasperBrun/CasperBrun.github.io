@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Prediction Analysis
+title: Predictive Analysis
 permalink: /prediction_analysis/
 ---
 
@@ -20,7 +20,7 @@ With these insights, we built a predictive model to estimate delivery minutes fo
 ![actual_vs_predict](/assets/images/actual_vs_predict.jpeg)
 
 
-# Real vs Predicted Delivery Minutes
+## Real vs Predicted Delivery Minutes
 
 The first plot compares the actual and predicted delivery times for each day. The blue dots represent the actual average delivery minutes, while the orange dots show the predicted delivery minutes from the model. The overall pattern indicates how closely the model's predictions match the real data over time. If the two lines track closely, it means the model is good at capturing the actual delivery patterns. However, if the lines diverge significantly, it suggests the model struggles to capture the true behavior of the delivery process.
 
@@ -28,7 +28,7 @@ In the early months, like June and July, the actual delivery times (blue) are of
 From August onwards, the actual and predicted lines start to align more closely, mostly within the 100-150 minutes range. In the final months, October and November, the model’s predictions become very close to the actual delivery times, with both mostly staying within the 100 to 150 minutes range. This suggests the model has learned the typical delivery patterns well, resulting in fewer large errors.
 
 
-# Confidence vs Prediction Intervals
+## Confidence vs Prediction Intervals
 
 The first subplot adds a confidence interval (shaded in orange) around the predicted line. In simple terms, it shows the range where the average delivery time is likely to fall most of the time (around 95% of the time). If the real values mostly fall within this band, it means the model is generally accurate for average predictions. 
 The second subplot introduces a prediction interval (shaded in green), which is much wider. This interval accounts for both the model's uncertainty and the natural variation in daily deliveries, capturing where individual points might fall. This is a more realistic measure of model reliability, as it considers the full range of possible outcomes. If the actual values still fall mostly within this band, it means the model captures the overall trend well, even if it misses some daily fluctuations.
