@@ -21,7 +21,7 @@ June typically starts a bit slower, even though it includes the 618 Shopping Fes
 
 **The September-October Rush:**
 
-The heatmap clearly shows a surge in delivery volumes as we move into September and October. This period aligns with the Golden Week in early October, one of the biggest shopping and travel seasons in China. According to [China Daily](https://govt.chinadaily.com.cn/s/202310/07/WS65326e0a498ed2d7b7e9e0d3/golden-week-holiday-data-shows-consumption-boom.html), , this week-long national holiday drives a massive spike in consumer spending, pushing up delivery volumes as people prepare for family gatherings and holiday shopping. Additionally, businesses often stock up ahead of this peak period, adding extra pressure on logistics networks.
+The heatmap clearly shows a surge in delivery volumes as we move into September and October. This period aligns with the Golden Week in early October, one of the biggest shopping and travel seasons in China. According to [China Daily](https://govt.chinadaily.com.cn/s/202310/07/WS65326e0a498ed2d7b7e9e0d3/golden-week-holiday-data-shows-consumption-boom.html), this week-long national holiday drives a massive spike in consumer spending, pushing up delivery volumes as people prepare for family gatherings and holiday shopping. Additionally, businesses often stock up ahead of this peak period, adding extra pressure on logistics networks.
 
 **Weekend Deeps :**
 
